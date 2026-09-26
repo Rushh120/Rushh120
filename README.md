@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h3>About me</h3>
-<p>Hi! I'm Rushh120.<br>this is still a WIP.</p>
+<p>Hi! I'm Rushh120.<br>There is nothing here expect nothing here for a long time.</p>
